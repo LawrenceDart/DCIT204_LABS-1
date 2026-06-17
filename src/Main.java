@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        / The Linear Search Algorithm
+        // The Linear Search Algorithm
     public static int linearSearch(int[] arr, int target){
         for(int i =0; i< arr.length; i++){
             if (arr[i] == target){
